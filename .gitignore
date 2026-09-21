@@ -1,0 +1,23 @@
+# Entorno y secretos
+.env
+*.pem
+*-key.pem
+
+# Certificados y herramientas de terceros
+mkcert.exe
+
+# Salidas generadas (datos reales de tu infraestructura)
+inventario_proxmox_*.csv
+inventario_proxmox_*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
