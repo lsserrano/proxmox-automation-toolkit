@@ -130,4 +130,4 @@ Todos los scripts siguen la misma convención de salida en consola:
 **lsserrano** — Técnico en Sistemas de Telecomunicaciones e Informáticos.
 Proyecto desarrollado como parte de la preparación autodidacta previa a un máster en ciberseguridad.
 
-[LinkedIn](www.linkedin.com/in/lsleoserrano) · [GitHub](https://github.com/lsserrano)
+[LinkedIn](https://www.linkedin.com/in/lsleoserrano) · [GitHub](https://github.com/lsserrano)

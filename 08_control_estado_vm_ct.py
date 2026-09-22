@@ -40,7 +40,7 @@ except Exception as e:
     exit(1)
 
 NODO = env_requerida('PROXMOX_NODE')
-ct_id = int(env_requerida('CT_VMID'))
+ct_id = int(env_requerida('CT_TARGET_VMID'))
 accion = env_requerida('CT_ACTION').lower()   # start | stop | shutdown | reboot | suspend
 
 acciones_validas = {'start', 'stop', 'shutdown', 'reboot', 'suspend'}

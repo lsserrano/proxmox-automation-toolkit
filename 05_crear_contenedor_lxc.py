@@ -33,7 +33,7 @@ except Exception as e:
     exit(1)
 
 NODO = env_requerida('PROXMOX_NODE')
-ct_id = env_requerida('CT_VMID')
+ct_id = env_requerida('CT_CREATE_VMID')
 ct_template = env_requerida('CT_TEMPLATE')
 ct_password = env_requerida('CT_ROOT_PASSWORD')
 ct_hostname = os.environ.get('CT_HOSTNAME')
